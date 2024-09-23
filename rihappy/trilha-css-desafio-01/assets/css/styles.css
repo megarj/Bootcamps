@@ -88,7 +88,8 @@ section {
 
 .banner .banner-content button:hover {
   color: var(--text-color);
-  border-color: var(--text-color);
+  border-image: linear-gradient(var(--secondary-color), var(--tertiary-color));
+  border-image-slice: 10;
 }
 
 #course-content {
