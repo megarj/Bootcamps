@@ -19,9 +19,6 @@ O **Social Engineering Toolkit (SET)** é uma poderosa ferramenta integrada no K
    ```bash
    setoolkit
    ```
-   O menu de opções do **SET** irá carregar.
-   ```
-
 2. **Escolha o tipo de ataque**:
    - Digite `2` para **Social-Engineering Attacks**.
    - Digite `3` para **Web Site Attack Vectors**.
