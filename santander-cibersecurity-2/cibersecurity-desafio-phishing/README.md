@@ -56,12 +56,14 @@ O **Social Engineering Toolkit (SET)** é uma poderosa ferramenta integrada no K
 2. **Dicas Práticas**
    - Passe o mouse sobre o link (não clique) para ver o destino real
    - Copie o link e analise-o nos verificadores Online abaixo
+   - Usar autenticação multifator.
+   - Verificar se o site possui certificado válido.
+   - Navegar apenas em sites seguros com HTTPS.
    - Se recebeu por SMS/WhatsApp, confirme com o remetente por outro canal
 
 3. **Use Verificadores Online de URL**
-   - VirusTotal (www.virustotal.com)
+   - VirusTotal 
    [VirusTotal URL Scanner](https://www.virustotal.com/gui/home/url)
-   - Google Safe Browsing (transparencyreport.google.com/safe-browsing)
+   - Google Safe Browsing
    [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search)
    - URLVoid (www.urlvoid.com)
-   [URLVoid](https://www.urlvoid.com/)
