@@ -23,7 +23,7 @@ Este projeto demonstra um exemplo simples de como um ransomware pode criptografa
       ```
       https://github.com/megarj/bootcamps/tree/main/santander-cibersecurity-2/cibersecurity-desafio-ransomware
       ```
-    - Clique em "Download Directory"
+    - Pressione Enter para baixar os arquivos
 
 2. Extraia o conteúdo do arquivo zip baixado.
 
